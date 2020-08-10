@@ -78,7 +78,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
               ),
               SizedBox(height: height * 0.1),
               Text(
-                'Choose a style',
+                'Choose a theme',
                 style: TextStyle(
                     fontSize: width * .06, fontWeight: FontWeight.bold),
               ),
@@ -86,7 +86,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
               Container(
                 width: width * .6,
                 child: Text(
-                  'Pop or subtle. Day or night. Customize your interface',
+                  'Change your interface.',
                   textAlign: TextAlign.center,
                 ),
               ),
@@ -137,7 +137,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
                         padding:
                             EdgeInsets.symmetric(horizontal: width * 0.025),
                         child: Text(
-                          'Skip',
+                          'Sayan Nath',
                           style: TextStyle(
                             fontSize: width * 0.045,
                             color: const Color(0xFF7c7b7e),
