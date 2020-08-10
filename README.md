@@ -1,4 +1,4 @@
-# theme_app
+# Theme Changer App
 
 A new Flutter project.
 
