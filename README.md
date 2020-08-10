@@ -12,8 +12,8 @@ This Flutter app which helps you to find the chnage the theme of your phone.📳
 
 ## Screenshots
 
-<img src="screenshots/1.jpeg" />
-<img src="screenshots/2.jpeg" />
+<img src="screenshots/1.png" />
+<img src="screenshots/2.png" />
 
 ## NOTE:
 This project is subject to change by the developer and is still in development
